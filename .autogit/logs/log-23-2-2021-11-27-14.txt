@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Tue Mar 23 2021 11:27:14 GMT-0300 (Brasilia Standard Time)
+------------------------------------------------------
+
+Modified files:
+* src/components/TaskList.tsx
+
+
+Created files:
+* .autogit/autogit.json
+* yarn.lock
+
+
+Deleted files:
+
+
+Renamed files:
